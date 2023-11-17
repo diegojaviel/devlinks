@@ -23,7 +23,7 @@
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML & CSS
 - JavaScript
 - Git & Github
 - Figma
