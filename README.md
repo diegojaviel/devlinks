@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator for use as an online business card.
 
-- [Access the project up & running](https://maykbrito.github.io/devlinks)
+- [Access the project up & running](https://diegojaviel.github.io/devlinks/)
 
 ## 🔖 Layout
 
